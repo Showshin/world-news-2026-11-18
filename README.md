@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261118/Showshin/world-news-2026-11-18/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/Showshin/world-news-2026-11-18/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
-A hand-drawn six-story front page that sums up 18 November 2026 in one image: the Alaska Senate flip, the Trump–Xi–Putin summit, Iran's Gulf strikes, the Kerch Bridge attack, Nvidia's earnings and the US flight outages.
+A 35-story front page in one image: nine illustrated leads and 26 briefs across six continents, from the Alaska Senate flip and the APEC summit to the Kerch Bridge attack, Nvidia's earnings, Congo's Ebola outbreak and Cyclone Akvan.
 
 ## Run it
 
